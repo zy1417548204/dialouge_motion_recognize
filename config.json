@@ -1,0 +1,14 @@
+"root":{
+"task_name":string"emotion_detection"
+"model_type":string"textcnn_net"
+"num_labels":int3
+"vocab_size":int240465
+"vocab_path":string"/home/aistudio/data/data12605/data/vocab.txt"
+"data_dir":string"/home/aistudio/data/data12605/data"
+"inference_model_dir":string"./inference_model"
+"save_checkpoint_dir":string""
+"init_checkpoint":string"./textcnn"
+"lr":float0.0001
+"epoch":int10
+"batch_size":int64
+}
